@@ -1,0 +1,13 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		String mens1 = "Olá Mundo! ";
+		
+		String mensagem = mens1 + "Bem-Vindo Ao Java";
+		
+		System.out.println(mensagem);
+	}
+
+}
