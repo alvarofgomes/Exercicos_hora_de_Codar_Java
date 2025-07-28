@@ -23,7 +23,7 @@ public class Main {
 
 		double media = soma / 3.0;
 		
-		System.out.printf("Aluno: %s Nota = %.2f\n", nome, media);
+		System.out.printf("Aluno: %s, Nota = %.2f\n", nome, media);
 		
 		if (media < 7.0) {
 			
