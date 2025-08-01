@@ -10,9 +10,11 @@ INDEX VERSION 1.134+E:\Estudos\Udemy_Matheus_Batistti\Java_Hora_De_Codar\ws-Java
 794299299.index
 51944569.index
 2813156714.index
+1597177644.index
 3199926850.index
 1865797976.index
 2817284759.index
+2973539840.index
 2375967845.index
 2108285124.index
 3120151208.index
@@ -20,8 +22,10 @@ INDEX VERSION 1.134+E:\Estudos\Udemy_Matheus_Batistti\Java_Hora_De_Codar\ws-Java
 3091468359.index
 2702443921.index
 1702631263.index
+3325800086.index
 2949615011.index
 2792997256.index
+1451537159.index
 3058784793.index
 3243666063.index
 3933944140.index
@@ -31,6 +35,7 @@ INDEX VERSION 1.134+E:\Estudos\Udemy_Matheus_Batistti\Java_Hora_De_Codar\ws-Java
 1055197997.index
 1936877814.index
 74799200.index
+674615226.index
 1064341554.index
 1215799460.index
 3977706837.index
