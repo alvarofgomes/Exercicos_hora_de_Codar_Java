@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>ConversorDeTemperatura</name>
+	<name>Ordenação_de_Arrays</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1754163439709</id>
+			<id>1754163439774</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
