@@ -36,7 +36,9 @@ Este projeto é feito com fins de prática pessoal e diversão. Sinta-se à vont
 - [x] Variáveis e operadores
 - [x] Estruturas condicionais (`if`, `else`, `switch`)
 - [x] Estruturas de repetição (`for`, `while`, `do-while`)
-- [x] Funções
+- [x] Métodos e funções
+- [x] Vetores (arrays)
+- [x] Matrizes (arrays bidimensionais)
 
 🤝 Contribuições
 Este projeto é pessoal e está aberto a melhorias! Sugestões, correções ou comentários são sempre bem-vindos.
