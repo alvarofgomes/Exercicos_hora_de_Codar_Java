@@ -39,6 +39,7 @@ Este projeto é feito com fins de prática pessoal e diversão. Sinta-se à vont
 - [x] Métodos e funções
 - [x] Vetores (arrays)
 - [x] Matrizes (arrays bidimensionais)
+- [x] Programação orientada a objetos (POO) - básico
 
 🤝 Contribuições
 Este projeto é pessoal e está aberto a melhorias! Sugestões, correções ou comentários são sempre bem-vindos.
