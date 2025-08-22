@@ -40,6 +40,12 @@ Este projeto é feito com fins de prática pessoal e diversão. Sinta-se à vont
 - [x] Vetores (arrays)
 - [x] Matrizes (arrays bidimensionais)
 - [x] Programação orientada a objetos (POO) - básico
+- ⏳ Programação orientada a objetos (POO) - avançado
+   - **Classes e objetos**
+   - **Encapsulamento**
+   - Herança
+   - Polimorfismo
+   - **Composição de Objetos (Object Composition)**
 - [x] ArrayList (Listas Dinâmicas)
 
 🤝 Contribuições
